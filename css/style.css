@@ -159,6 +159,7 @@ body {
 .nav:hover:hover {
     background-color: rgb(236, 38, 97);
     color: white;
+    box-shadow:2PX 2PX 2PX 2PX thistle;
 }
 
 .nav {
